@@ -1,6 +1,6 @@
 # Java Algorithms and Studies
 
-This repository contains the solutions to exercises and studies about each topic in the [Java track syllabus](https://exercism.io/tracks/java).
+This repository contains the solutions to exercises and studies about each topic in the [Exercism Java track syllabus](https://exercism.io/tracks/java).
 
 ## Exercises
 
