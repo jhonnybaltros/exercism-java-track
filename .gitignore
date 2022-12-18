@@ -1,0 +1,18 @@
+# Ignore all build directories
+**/build/
+
+# Ignore all generated class files
+**/*.class
+
+# Ignore all Eclipse project files
+.project
+.classpath
+
+# Ignore all Gradle wrapper files
+gradle/wrapper/
+
+# Ignore all Gradle caches
+.gradle/
+
+# Ignore all temporary files
+**/*~
