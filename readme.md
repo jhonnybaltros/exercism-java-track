@@ -1,4 +1,4 @@
-# Java Algorithms and Studies
+# Java Algorithms and StudiesLog Levels
 
 This repository contains the solutions to exercises and studies about each topic in the [Exercism Java track syllabus](https://exercism.io/tracks/java).
 
