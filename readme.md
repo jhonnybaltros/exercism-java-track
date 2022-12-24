@@ -7,6 +7,7 @@ This repository contains the solutions to exercises and studies about each topic
 - [Bird Watcher](/bird-watcher): Solution to the "Bird Watcher" exercise.
 - [Log Levels](/log-levels): Solution to the "Log Levels" exercise.
 - [two-fer](/two-fer): Solution to the "two-fer" exercise.
+- [isogram](/isogram): Solution for the exercise "isogram".
 
 ## Studies
 
