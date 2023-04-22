@@ -8,6 +8,7 @@ This repository contains the solutions to exercises and studies about each topic
 - [Log Levels](/log-levels): Solution to the "Log Levels" exercise.
 - [two-fer](/two-fer): Solution to the "two-fer" exercise.
 - [isogram](/isogram): Solution for the exercise "isogram".
+- [karls-languages](/isogram): Solution for the exercise "karls-languages".
 
 ## Studies
 
